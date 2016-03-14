@@ -1,0 +1,10 @@
+Capturando imagen
+ > Uploading "/home/ubuntu/fotos/forestin_1/010110-012949.jpg" to "/forestin_1/010110-012949.jpg"... 
+Error: cURL is not able to performs peer SSL certificate verification.
+Please, install the default ca-certificates bundle.
+To do this in a Debian/Ubuntu based system, try:
+  sudo apt-get install ca-certificates
+
+If the problem persists, try to use the -k option (insecure).
+guardando direccion de  imagen en servidor
+
