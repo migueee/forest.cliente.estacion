@@ -1,9 +1,0 @@
-# esta crpeta, FORESTIN_1 corresponde a todo el codigo de la primera estacion
-# implementada en una pcduino3b
-
-# requisitos:
-	* instalar pingo
-	* instalar fswebcam
-	* configurar dropbox_uploader para subir imagenes 
-	al dropbox proyecto_forestal_lemu@gmail.com
-	* 
